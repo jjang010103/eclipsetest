@@ -5,6 +5,7 @@ public class test1 {
 	{
 		System.out.println("장민규");
 		System.out.println("장민규 복제");
+		System.out.println("복제인간");
 	}
 
 }
